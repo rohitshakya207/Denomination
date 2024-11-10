@@ -42,7 +42,7 @@ ${data.remark}
 Rupee x Counts = Total
 ₹ 2,000 x ${data.multi2000} = ₹ ${data.amount2000}
 ₹ 500 x ${data.multi500}= ₹ ${data.amount500}
-₹ 200 x ${data.multi2000} = ₹ ${data.amount200}
+₹ 200 x ${data.multi200} = ₹ ${data.amount200}
 ₹ 100 x ${data.multi100} = ₹ ${data.amount100}
 ₹ 50 x ${data.multi50} = ₹ ${data.amount50}
 ₹ 20 x ${data.multi20} = ₹ ${data.amount20}
